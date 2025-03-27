@@ -47,8 +47,8 @@ cd css-penguin-animation
 - 📱 Responsive design and interactive scaling on penguin click
 
 📌 **Project Preview**
-![Project ](Penguinet1pagesupplmentaire-PersonnelMicrosoftEdge2025-03-2711-07-57-ezgif.com-video-to-gif-converter.gif)
-![Project Code ](styles.css-Penguin-Cursor2025-03-2711-01-28-ezgif.com-video-to-gif-converter.gif)
+![Project ](./img/Penguinet1pagesupplmentaire-PersonnelMicrosoftEdge2025-03-2711-07-57-ezgif.com-video-to-gif-converter.gif)
+![Project Code ](./img/styles.css-Penguin-Cursor2025-03-2711-01-28-ezgif.com-video-to-gif-converter.gif)
 
 🔗 **Example Code**
 
